@@ -165,13 +165,13 @@ p {
 }
 
 #home-info .info-img1 {
-    /* float: left; */
+    float: left;
     width: 50%;
     min-height: 100%;
     padding-bottom: 20px;
 }
 #home-info .info-img2 {
-    /* float: right; */
+    float: right;
     width: 50%;
     min-height: 100%;
 }
