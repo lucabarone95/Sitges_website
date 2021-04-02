@@ -158,6 +158,10 @@ p {
     height: 490px;
 }
 
+#home-info2 {
+    height: 370px;
+}
+
 #home-info .info-img1 {
     float: left;
     width: 50%;
@@ -165,6 +169,11 @@ p {
 }
 #home-info .info-img2 {
     float: right;
+    width: 50%;
+    min-height: 100%;
+}
+#home-info2 .info-img3 {
+    float: left;
     width: 50%;
     min-height: 100%;
 }
@@ -212,7 +221,7 @@ p {
 #home-info .img13 {
     background: url(/images/13.jpg) no-repeat center center/cover;
 }
-#home-info .img14 {
+#home-info2 .img14 {
     background: url(/images/14.jpg) no-repeat center center/cover;
 }
 #home-info .img15 {
@@ -223,12 +232,12 @@ p {
 }
 
 
-#home-info .info-content {
+#home-info2 .info-content {
     float: right;
     width: 50%;
     height: 100%;
     text-align: center;
-    padding: 50px 30px;
+    padding: 10px 30px;
     overflow: hidden;
 }
 
