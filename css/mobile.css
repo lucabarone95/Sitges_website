@@ -24,7 +24,7 @@
 #showcase .showcase-content{
     color: white;
     text-align: center;
-    padding-top: 70px;
+    /* padding-top: 70px; */
 }
 
 /* 
@@ -37,7 +37,14 @@
     float: none;
     width: 100%;
 } */
-
+#home-info .info-img1 {
+    float: none;
+    width: 100%;
+}
+#home-info .info-img2 {
+    float: none;
+    width: 100%;
+}
 .box {
     float: none;
     width: 100%;
