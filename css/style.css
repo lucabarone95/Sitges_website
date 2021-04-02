@@ -133,6 +133,8 @@ p {
         rgba(0,0,0,0) ) ,
         url(/images/04.jpg) no-repeat center center/cover;
     height: 700px; 
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 #showcase .showcase-content{
@@ -163,12 +165,13 @@ p {
 }
 
 #home-info .info-img1 {
-    float: left;
+    /* float: left; */
     width: 50%;
     min-height: 100%;
+    padding-bottom: 20px;
 }
 #home-info .info-img2 {
-    float: right;
+    /* float: right; */
     width: 50%;
     min-height: 100%;
 }
@@ -184,54 +187,94 @@ p {
 }
 #home-info .img0 {
     background: url(/images/00.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 #home-info .img1 {
     background: url(/images/01.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 #home-info .img2 {
     background: url(/images/02.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;    
+    margin-bottom: 20px;
 }
 #home-info .img3 {
     background: url(/images/03.jpg) no-repeat center center/cover;
+    
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 #home-info .img4 {
     background: url(/images/04.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 #home-info .img5 {
     background: url(/images/05.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 #home-info .img6 {
     background: url(/images/06.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 #home-info .img7 {
     background: url(/images/07.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 #home-info .img8 {
     background: url(/images/08.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 #home-info .img9 {
     background: url(/images/09.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 #home-info .img10 {
     background: url(/images/10.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 #home-info .img11 {
     background: url(/images/11.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 #home-info .img12 {
     background: url(/images/12.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 #home-info .img13 {
     background: url(/images/13.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 #home-info2 .img14 {
     background: url(/images/14.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 #home-info .img15 {
     background: url(/images/15.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 #home-info .img16 {
     background: url(/images/16.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+#home-info .img17 {
+    background: url(/images/17.jpg) no-repeat center center/cover;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 
