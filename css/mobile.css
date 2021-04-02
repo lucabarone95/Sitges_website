@@ -21,8 +21,11 @@
     color: #f7c08a;
 }
     
+#showcase {
+    height: 400px; 
+}
 #showcase .showcase-content{
-    color: white;
+    color: #fff;
     text-align: center;
     /* padding-top: 70px; */
 }

@@ -131,20 +131,20 @@ p {
     background: linear-gradient(
         rgba(0,0,0,0),
         rgba(0,0,0,0) ) ,
-        url(/images/00.jpg) no-repeat center center/cover;
-    height: 800px; 
+        url(/images/04.jpg) no-repeat center center/cover;
+    height: 700px; 
 }
 
 #showcase .showcase-content{
-    color: white;
+    color: #fff;
     text-align: center;
-    padding-top: 300px;
+    padding-top: 00px;
 }
 
 #showcase .showcase-content h1 {
     font-size: 60px;
     line-height: 1.2em;
-    padding-bottom: 60px;
+    padding-bottom: 40px;
 }
 
 
@@ -181,6 +181,9 @@ p {
     float: left;
     width: 100%;
     min-height: 100%;
+}
+#home-info .img0 {
+    background: url(/images/00.jpg) no-repeat center center/cover;
 }
 #home-info .img1 {
     background: url(/images/01.jpg) no-repeat center center/cover;
